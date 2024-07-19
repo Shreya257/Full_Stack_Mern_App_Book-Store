@@ -1,5 +1,5 @@
 # Bookstore
-Stores collection of books
+Stores collection of several different books
 
 # Bookstore
 
