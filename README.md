@@ -1,7 +1,7 @@
 # Bookstore Application
 Stores collection of several different books
 
-# Bookstore
+# Bookstore Application -
 
 ![BOOKSTOREWEBPAGE](https://user-images.githubusercontent.com/76741091/124949162-600e6c80-e022-11eb-8607-c48d6ad508f5.PNG)
 
