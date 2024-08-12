@@ -1,4 +1,4 @@
-# Bookstore
+# Bookstore Application
 Stores collection of several different books
 
 # Bookstore
